@@ -1,0 +1,128 @@
+    a:hover {
+        color: #e0bdbf;
+    }
+
+::selection {
+    background-color: #e0bdbf;
+    color: #FFF;
+}
+
+.gray-bg {
+    background: #f7f7f7;
+    color: #5d6d71;
+}
+
+.gray-bg h1, .gray-bg h2, .gray-bg h3, .gray-bg h4, .gray-bg h5, .gray-bg h6, .gray-bg .container-icon {
+        color: #5d6d71;
+    }
+
+h1, h2, h3, h4, h5, h6 {
+    color: #5d6d71;
+}
+
+h3:after {
+        color: #e1cac7;
+}
+
+.btn-black {
+    background: #5d6d71;
+}
+
+.btn-black:hover {
+        background: #a0bac1;
+}
+
+.btn-white {
+    color: #5d6d71;
+}
+
+.btn-link-a:hover {
+        color: #d9646b;
+        border-bottom: 1px solid #d9646b;
+}
+
+.header .nav-menu ul.nav-menu-inner > li.active a,
+.header .nav-menu ul.nav-menu-inner > li a.active,
+.header .nav-menu ul.nav-menu-inner > li:hover > a,
+.header .nav-menu ul.nav-menu-inner > li > a:hover,
+.header.header-dark .nav-menu ul.nav-menu-inner > li.active a,
+.header.header-dark .nav-menu ul.nav-menu-inner > li a.active,
+.header.header-dark .nav-menu ul.nav-menu-inner > li:hover > a,
+.header.header-dark .nav-menu ul.nav-menu-inner > li > a:hover,
+.header.header-dark.header-prepare .nav-menu ul.nav-menu-inner li a.current,
+.header.header-dark.header-prepare .nav-menu ul.nav-menu-inner li.current a {
+    color: #e0bdbf;
+}
+
+.header.header-light .nav-menu ul.nav-menu-inner > li:hover > a,
+.header.header-light .nav-menu ul.nav-menu-inner > li > a:hover,
+.header.header-prepare .nav-menu ul.nav-menu-inner li a.current,
+.header.header-prepare .nav-menu ul.nav-menu-inner li.current a {
+    color: #e0bdbf;
+}
+
+.accordion-title.active {
+        /*background: #fafafa;*/
+        color: #a0bac1;
+    }
+
+.overlay-dark80:before {
+        background-color: rgba(32,32,32,0.3);
+    }
+
+.dark-bg {
+    background: #a0bac1;
+    color: #fff;
+}
+
+.dark-color p{
+	color: white;
+}
+
+.dark-color h6{
+	color: white;
+}
+
+.dark-color, .dark-color .container-icon {
+    color: white;
+}
+
+.dark-bg .link:hover, .link:hover {
+  color: #d9646b; }
+
+.container-filter li a.active {
+  color: #d9646b; }
+
+.ptb2 {
+  padding-top: 110px;
+  padding-bottom: 110px;
+  background-color: #a0bac1; }
+
+.contact-box-left {
+  color: white; }
+
+.contact-box-left p {
+  color: white; }
+
+.contact-box-left h6 {
+  color: #5d6d71; }
+
+.contact-box-left a {
+  color: white; }
+
+.contact-box-left a:hover {
+  color: #d9646b; }
+
+.scroll-top:hover {
+  background: #d9646b; }
+
+#testimonial h3 {
+  text-align: center;
+  padding-bottom: 2rem; }
+
+#service h3 {
+  text-align: center;
+  padding-bottom: 2rem; }
+
+.title > h2 {
+  color: white; }

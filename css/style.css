@@ -1,6 +1,6 @@
 ﻿@import url("./plugin/flexslider.css");
 @import url("./plugin/owl.carousel.css");
-@import url("./plugin/mediaelementplayer.css");
+/*@import url("./plugin/mediaelementplayer.css");*/
 @import url("./plugin/colorbox.css");
 @import url("./plugin/jquery.fs.tipper.css");
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
@@ -73,7 +73,7 @@ body, html {
 
 body {
     line-height: 24px;
-    color: #323232;
+    /*color: #323232;*/
     font-size: 13px;
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -114,13 +114,13 @@ a {
         -o-transition: all 0.25s ease 0s;
     }
 
-.video {
+/*.video {
     display: block;
 }
 
 .audio {
     width: 100%;
-}
+}*/
 
 br {
     font-size: 0;
@@ -1640,7 +1640,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 }
 
 /* Cart Dropdown ------- */
-.cart {
+/*.cart {
     position: static !important;
 }
 
@@ -1780,7 +1780,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
                 /*color: #e6ae49;*/
                 color: #fff;
             }
-
+*/
 @media all and (max-width: 1024px) {
     .side-menu-btn ul li a.header-icon {
         padding-bottom: 20px;
@@ -1873,7 +1873,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
     display: table;
     height: 100%;
     text-align: center;
-    width: 100%;
+    /*width: 100%;*/
 }
 
 .intro-content-inner {
@@ -2371,7 +2371,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 /*  Pricing       ||---------------------------- */
 /*-------------------------------------------------------------------------------------------*/
 
-.Pricing-box {
+/*.Pricing-box {
     border: 1px solid #f1f1f1;
     text-align: center;
 }
@@ -2425,7 +2425,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 
         .Pricing-box .pricing-features ul li {
             padding: 6px;
-        }
+        }*/
 
 
 /*-------------------------------------------------------------------------------------------*/
@@ -3931,7 +3931,7 @@ ul.project-detail-block, .project-detail-block ul {
 }
 
 /* Shop Detail*/
-.shop-detail-item {
+/*.shop-detail-item {
     position: relative;
 }
 
@@ -3951,7 +3951,7 @@ ul.project-detail-block, .project-detail-block ul {
 
 .shop-Cart-totalprice {
     font-size: 18px;
-}
+}*/
 
 /* =============================================================================================================================*/
 /* Parallax ------------------- */
