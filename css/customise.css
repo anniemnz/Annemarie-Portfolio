@@ -125,4 +125,21 @@ h3:after {
   padding-bottom: 2rem; }
 
 .title > h2 {
-  color: white; }
+  color: white; 
+}
+
+
+
+
+
+
+
+
+@include media-breakpoint-up(md)
+
+
+
+
+
+
+
